@@ -1,16 +1,13 @@
-## Hi there 👋
+  ![banner](day01_points.png)
 
-<!--
-**lidar-and-Lava/lidar-and-Lava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alexandra 🌋
 
-Here are some ideas to get you started:
+I'm a Geoscience graduate and MSc GIS & Remote Sensing
+student.  I use GIS, LiDAR, multispectral and radar
+remote sensing to study the Earth and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** #30DayMapChallenge 2026 
+
+**Tools:** QGIS · ArcGIS Pro · Python  · R (lidR) · Sentinel-1/2
+
+⚡ Fun fact: my undergrad dissertation measured CO₂ trapped in tiny melt inclusions, to work out why a usually calm volcano erupted explosively
